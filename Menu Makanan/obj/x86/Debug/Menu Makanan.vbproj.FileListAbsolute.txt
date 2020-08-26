@@ -1,0 +1,40 @@
+D:\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.exe
+D:\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.pdb
+D:\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.xml
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Form1.resources
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Resources.resources
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.exe
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.xml
+D:\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.pdb
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.exe
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.xml
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.pdb
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.exe
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.pdb
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.xml
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Form1.resources
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Resources.resources
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.exe
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.xml
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.pdb
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.exe
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.pdb
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.xml
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Form1.resources
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Resources.resources
+D:\KAMPUS\Praktek\Pemrogaman\VB 10\ptm4\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.vbproj.GenerateResource.Cache
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.exe
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.xml
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.pdb
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.exe
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.pdb
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\bin\Debug\Menu Makanan.xml
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Form1.resources
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu_Makanan.Resources.resources
+D:\STMIK HTP\STMIK HTP\Semester 4 (OK)\Bahasa Pemograman\UTS\Menu Makanan\Menu Makanan\Menu Makanan\obj\x86\Debug\Menu Makanan.vbproj.GenerateResource.Cache
